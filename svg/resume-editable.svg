@@ -30,14 +30,14 @@
      showgrid="true"
      showguides="false"
      inkscape:zoom="1.5"
-     inkscape:cx="344.66667"
-     inkscape:cy="851.33333"
-     inkscape:window-width="3370"
+     inkscape:cx="303"
+     inkscape:cy="638"
+     inkscape:window-width="1685"
      inkscape:window-height="1376"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g297">
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
        units="pt"
@@ -305,14 +305,14 @@
        transform="translate(-12.347868)"><tspan
          x="105.83334"
          y="19.402777"
-         id="tspan45"><tspan
+         id="tspan12"><tspan
            style="font-family:'IBM Plex Sans';fill:#231f20"
-           id="tspan42">Swan is a software engineer building highly interactive </tspan></tspan><tspan
+           id="tspan11">Swan is a software engineer building highly interactive </tspan></tspan><tspan
          x="105.83334"
          y="24.780106"
-         id="tspan48"><tspan
+         id="tspan14"><tspan
            style="font-family:'IBM Plex Sans';fill:#231f20"
-           id="tspan46">web-based experiences with cutting-edge AI/ML tools.</tspan></tspan></text>
+           id="tspan13">web-based experiences with cutting-edge AI/ML tools.</tspan></tspan></text>
     <g
        id="g308">
       <text
@@ -374,25 +374,25 @@
          y="45.861111"><tspan
            x="75.847229"
            y="45.861111"
-           id="tspan50"><tspan
+           id="tspan16"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan49">October 2023 - Present
+             id="tspan15">October 2023 - Present
 </tspan></tspan><tspan
            x="75.847229"
            y="49.400202"
-           id="tspan52"><tspan
+           id="tspan18"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan51">Building key backend and frontend features for consumer-facing web applications and </tspan></tspan><tspan
+             id="tspan17">Building key backend and frontend features for consumer-facing web applications and </tspan></tspan><tspan
            x="75.847229"
            y="52.939295"
-           id="tspan57"><tspan
+           id="tspan20"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan56">platforms. Clients include Deeplocal, Magic Circle Game Studio, and Mars.</tspan></tspan></text>
+             id="tspan19">platforms. Clients include Deeplocal, Magic Circle Game Studio, and Mars.</tspan></tspan></text>
     </g>
     <a
        id="a312"
        xlink:href="https://thingsbyspoon.cc/work/ai-postcards"
-       transform="translate(-2.1887129e-6,24.694437)">
+       transform="translate(-2.1887206e-6,3.5277705)">
       <g
          id="g297">
         <text
@@ -415,38 +415,37 @@
            transform="translate(-3.9344823e-6,88.194447)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan59"><tspan
+             id="tspan22"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan58">Launched August 2023
+               id="tspan21">Launched August 2023
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan63"><tspan
+             id="tspan24"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan62">Led software development for a microsite through which event visitors submitted travel </tspan></tspan><tspan
+               id="tspan23">Led software development for a microsite through which event visitors submitted travel </tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan66"><tspan
+             id="tspan26"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan64">memories to create and print postcards with custom AI-generated illustrations and </tspan></tspan><tspan
+               id="tspan25">memories to create and print postcards with custom AI-generated illustrations and </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan68"><tspan
+             id="tspan28"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan67">messages. Stack included a NextJS-based frontend using Google's Imagen and PaLM </tspan></tspan><tspan
+               id="tspan27">messages. Stack included a NextJS-based frontend using Google's Imagen and PaLM </tspan></tspan><tspan
              x="75.847229"
              y="60.017481"
-             id="tspan71"><tspan
+             id="tspan31"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan69">(now </tspan><tspan
+               id="tspan29">(now </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan70">Gemini) generative AI APIs, and a NodeJS server managing a series of printers.</tspan></tspan></text>
+               id="tspan30">Gemini) generative AI APIs, and a NodeJS server managing a series of printers.</tspan></tspan></text>
       </g>
     </a>
     <a
        id="a316"
-       xlink:href="https://www.deeplocal.com/jen-ai"
-       transform="translate(0,21.166662)">
+       xlink:href="https://www.deeplocal.com/jen-ai">
       <g
          id="g296">
         <text
@@ -469,130 +468,39 @@
            transform="translate(-8.5104413e-6,116.41665)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan73"><tspan
+             id="tspan33"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan72">Launched June 2023
+               id="tspan32">Launched June 2023
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan98"><tspan
+             id="tspan36"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan96">Collaborated on development of a middleware REST API interfacing between </tspan><tspan
+               id="tspan34">Collaborated on development of a middleware REST API interfacing between </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan97">frontend and </tspan></tspan><tspan
+               id="tspan35">frontend and </tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan102"><tspan
+             id="tspan45"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan99">AI server to generate, stitch, and stream custom (consensual) </tspan><tspan
+               id="tspan37">AI server to generate, stitch, and stream custom (consensual) </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan100">deepfakes </tspan><tspan
+               id="tspan39">deepfakes </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan101">featuring </tspan></tspan><tspan
+               id="tspan42">featuring </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan105"><tspan
+             id="tspan48"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan103">Jennifer Lopez inviting the recipient on a </tspan><tspan
+               id="tspan46">Jennifer Lopez inviting the recipient on a </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan104">personalized Virgin cruise experience.</tspan></tspan></text>
+               id="tspan47">personalized Virgin cruise experience.</tspan></tspan></text>
       </g>
     </a>
-    <a
-       id="a3"
-       transform="translate(-88.19445,8.8194441)"
-       xlink:href="https://www.deeplocal.com/seance-bot">
-      <g
-         id="g295"
-         transform="translate(88.194448,-58.20833)">
-        <text
-           id="text2-8-5-1-46-2"
-           xml:space="preserve"
-           style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
-           x="75.847229"
-           y="183.44444"><tspan
-             style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:3.52777px;font-family:'Zilla Slab';letter-spacing:0px;writing-mode:lr-tb;fill:url(#swatch132);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
-             sodipodi:role="line"
-             id="tspan2-9-0-5-9-8"
-             x="75.847229"
-             y="183.44444">Deeplocal Seance Bot | Professional</tspan></text>
-        <text
-           id="text5-4-1-4-4-8"
-           xml:space="preserve"
-           style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
-           x="75.847229"
-           y="45.861111"
-           transform="translate(-1.0572021e-5,141.1111)"><tspan
-             x="75.847229"
-             y="45.861111"
-             id="tspan107"><tspan
-               style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan106">Launched October 2023
-</tspan></tspan><tspan
-             x="75.847229"
-             y="49.400202"
-             id="tspan109"><tspan
-               style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan108">Led software development of a robotic Ouija Board that harnessed ChatGPT and Google </tspan></tspan><tspan
-             x="75.847229"
-             y="52.939295"
-             id="tspan111"><tspan
-               style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan110">Speech to Text to facilitate conversations between players and classic Halloween </tspan></tspan><tspan
-             x="75.847229"
-             y="56.478388"
-             id="tspan113"><tspan
-               style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan112">monsters. </tspan></tspan></text>
-      </g>
-    </a>
-    <g
-       id="g294"
-       transform="translate(-2.1887129e-6,-3.5277793)">
-      <text
-         id="text2-8-5-1-46-2-8"
-         xml:space="preserve"
-         style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
-         x="75.847229"
-         y="204.61111"><tspan
-           style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:3.52777px;font-family:'Zilla Slab';letter-spacing:0px;writing-mode:lr-tb;fill:url(#swatch132);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
-           sodipodi:role="line"
-           id="tspan2-9-0-5-9-8-3"
-           x="75.847229"
-           y="204.61111">Google Pixel Palette / Woogle Maker | Professional</tspan></text>
-      <text
-         id="text5-4-1-4-4-8-8"
-         xml:space="preserve"
-         style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
-         x="75.847229"
-         y="45.861111"
-         transform="translate(-1.4760734e-5,162.27775)"><tspan
-           x="75.847229"
-           y="45.861111"
-           id="tspan115"><tspan
-             style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan114">Launched October 2022
-</tspan></tspan><tspan
-           x="75.847229"
-           y="49.400202"
-           id="tspan117"><tspan
-             style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan116">Developed a software experience, showcasing Google's new Pixel 6, that used MediaPipe, </tspan></tspan><tspan
-           x="75.847229"
-           y="52.939295"
-           id="tspan119"><tspan
-             style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan118">among other machine learning libraries, to extract the color palettes of Google Store </tspan></tspan><tspan
-           x="75.847229"
-           y="56.478388"
-           id="tspan121"><tspan
-             style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan120">visitors' outfits and generate an animated piece of art matching the visitors' color profiles. </tspan></tspan></text>
-    </g>
     <a
        id="a315-7"
        xlink:href="https://www.deeplocal.com/museum-of-the-future-al-waha"
-       transform="translate(-2.1887206e-6,-7.0555399)">
+       transform="translate(-2.1887283e-6,-28.222206)">
       <g
          id="g293-0">
         <text
@@ -615,36 +523,36 @@
            transform="translate(-1.8760734e-5,186.97218)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan123"><tspan
+             id="tspan50"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan122">Launched February 2022
+               id="tspan49">Launched February 2022
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan125"><tspan
+             id="tspan52"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan124">Built out a suite of calibration software tools for multiple different exhibits within a major </tspan></tspan><tspan
+               id="tspan51">Built out a suite of calibration software tools for multiple different exhibits within a major </tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan128"><tspan
+             id="tspan57"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan126">section of Dubai's Museum of the Future. These tools facilitated the tuning of the exhibits' </tspan></tspan><tspan
+               id="tspan56">section of Dubai's Museum of the Future. These tools facilitated the tuning of the exhibits' </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan130"><tspan
+             id="tspan59"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan129">Intel RealSense-based presence, motion, and hand tracking integrations as well as </tspan></tspan><tspan
+               id="tspan58">Intel RealSense-based presence, motion, and hand tracking integrations as well as </tspan></tspan><tspan
              x="75.847229"
              y="60.017481"
-             id="tspan132"><tspan
+             id="tspan63"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan131">alignment of massive, room-scale digital projections.</tspan></tspan></text>
+               id="tspan62">alignment of massive, room-scale digital projections.</tspan></tspan></text>
       </g>
     </a>
     <a
        id="a315-7-2"
        xlink:href="https://thingsbyspoon.cc/work/moderation-workstation"
-       transform="translate(-2.1887206e-6,42.333349)">
+       transform="translate(-2.1887283e-6,21.166683)">
       <g
          id="g293-0-8">
         <text
@@ -667,31 +575,31 @@
            transform="translate(-1.8760734e-5,186.97218)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan134"><tspan
+             id="tspan65"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan133">Launched December 2021
+               id="tspan64">Launched December 2021
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan136"><tspan
+             id="tspan67"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan135">Developed an interactive installation version of Google's annual Year in Search video. </tspan></tspan><tspan
+               id="tspan66">Developed an interactive installation version of Google's annual Year in Search video. </tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan138"><tspan
+             id="tspan69"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan137">Making use of BlazePose skeleton tracking and Google Speech to Text, the activation </tspan></tspan><tspan
+               id="tspan68">Making use of BlazePose skeleton tracking and Google Speech to Text, the activation </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan140"><tspan
+             id="tspan71"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan139">allowed store visitors to ask for in-depth search highlights from each month of 2021.</tspan></tspan></text>
+               id="tspan70">allowed store visitors to ask for in-depth search highlights from each month of 2021.</tspan></tspan></text>
       </g>
     </a>
     <a
        id="a314"
        xlink:href="https://thingsbyspoon.cc/work/tartan-generator"
-       transform="translate(-2.1887052e-6,-7.0555533)">
+       transform="translate(-2.1887129e-6,-28.22222)">
       <g
          id="g292">
         <text
@@ -714,30 +622,30 @@
            transform="translate(-2.1760734e-5,211.66663)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan142"><tspan
+             id="tspan73"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan141">Completed August 2022
+               id="tspan72">Completed August 2022
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan144"><tspan
+             id="tspan75"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan143">Built a microsite that uses a tuned K-Means algorithm to extract color palettes from user-</tspan></tspan><tspan
+               id="tspan74">Built a microsite that uses a tuned K-Means algorithm to extract color palettes from user-</tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan146"><tspan
+             id="tspan77"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan145">uploaded images and generate tartan plaids matching the extracted palettes. The site's </tspan></tspan><tspan
+               id="tspan76">uploaded images and generate tartan plaids matching the extracted palettes. The site's </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan148"><tspan
+             id="tspan79"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan147">core image processing engine was written in Rust and compiled to WebAssembly, running </tspan></tspan><tspan
+               id="tspan78">core image processing engine was written in Rust and compiled to WebAssembly, running </tspan></tspan><tspan
              x="75.847229"
              y="60.017481"
-             id="tspan150"><tspan
+             id="tspan81"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan149">entirely in the browser.</tspan></tspan></text>
+               id="tspan80">entirely in the browser.</tspan></tspan></text>
       </g>
     </a>
     <g
@@ -761,34 +669,34 @@
          y="63.5"><tspan
            x="75.847229"
            y="63.5"
-           id="tspan152"><tspan
+           id="tspan83"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan151">June 2021 - May 2022 (lvl. 1), May 2022 - October 2023 (lvl. 2)
+             id="tspan82">June 2021 - May 2022 (lvl. 1), May 2022 - October 2023 (lvl. 2)
 </tspan></tspan><tspan
            x="75.847229"
            y="67.039091"
-           id="tspan156"><tspan
+           id="tspan85"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan153">Leading software development on, and integrating novel generative AI models, motion/</tspan></tspan><tspan
+             id="tspan84">Leading software development on, and integrating novel generative AI models, motion/</tspan></tspan><tspan
            x="75.847229"
            y="70.578184"
-           id="tspan160"><tspan
+           id="tspan88"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan158">skeleton tracking, and machine learning algorithms and libraries into, </tspan><tspan
+             id="tspan86">skeleton tracking, and machine learning algorithms and libraries into, </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan159">award-winning </tspan></tspan><tspan
+             id="tspan87">award-winning </tspan></tspan><tspan
            x="75.847229"
            y="74.117277"
-           id="tspan163"><tspan
+           id="tspan91"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan161">interactive tactile and web experiences. Clients include Google, Meta, </tspan><tspan
+             id="tspan89">interactive tactile and web experiences. Clients include Google, Meta, </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan162">Netflix, TikTok, </tspan></tspan><tspan
+             id="tspan90">Netflix, TikTok, </tspan></tspan><tspan
            x="75.847229"
            y="77.65637"
-           id="tspan165"><tspan
+           id="tspan93"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan164">Museum of the Future, and Virgin.</tspan></tspan></text>
+             id="tspan92">Museum of the Future, and Virgin.</tspan></tspan></text>
     </g>
     <g
        id="g311"
@@ -812,25 +720,25 @@
          y="84.666672"><tspan
            x="75.847229"
            y="84.666672"
-           id="tspan167"><tspan
+           id="tspan95"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan166">June 2020 - August 2020
+             id="tspan94">June 2020 - August 2020
 </tspan></tspan><tspan
            x="75.847229"
            y="88.205763"
-           id="tspan175"><tspan
+           id="tspan97"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan168">Prototyping and developing functional demo of a 3D map view within the management </tspan></tspan><tspan
+             id="tspan96">Prototyping and developing functional demo of a 3D map view within the management </tspan></tspan><tspan
            x="75.847229"
            y="91.744856"
-           id="tspan178"><tspan
+           id="tspan99"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan177">software for a large fleet of autonomous vehicles. Designs have since been implemented </tspan></tspan><tspan
+             id="tspan98">software for a large fleet of autonomous vehicles. Designs have since been implemented </tspan></tspan><tspan
            x="75.847229"
            y="95.283949"
-           id="tspan181"><tspan
+           id="tspan101"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan180">into the production software. </tspan></tspan></text>
+             id="tspan100">into the production software. </tspan></tspan></text>
     </g>
     <g
        id="g306">
@@ -1451,20 +1359,20 @@
          transform="translate(-6.5599806e-7,21.166665)"><tspan
            x="75.847229"
            y="84.666672"
-           id="tspan183"><tspan
+           id="tspan103"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan182">July 2019 - August 2019
+             id="tspan102">July 2019 - August 2019
 </tspan></tspan><tspan
            x="75.847229"
            y="88.205763"
-           id="tspan185"><tspan
+           id="tspan105"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan184">Designing and implementing interactive, location-based, contextual UI elements for in-car </tspan></tspan><tspan
+             id="tspan104">Designing and implementing interactive, location-based, contextual UI elements for in-car </tspan></tspan><tspan
            x="75.847229"
            y="91.744856"
-           id="tspan187"><tspan
+           id="tspan107"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan186">passenger displays in autonomous vehicles. </tspan></tspan></text>
+             id="tspan106">passenger displays in autonomous vehicles. </tspan></tspan></text>
     </g>
     <path
        style="fill:url(#swatch132);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
@@ -1481,5 +1389,104 @@
          id="tspan2-9-7-1"
          x="75.847229"
          y="126.99999">Notable Work</tspan></text>
+    <a
+       id="a315"
+       xlink:href="https://thingsbyspoon.cc/work/moderation-workstation"
+       transform="translate(-2.1887206e-6,-49.388873)">
+      <g
+         id="g293">
+        <text
+           id="text2-8-5-1-46-2-8-4"
+           xml:space="preserve"
+           style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
+           x="75.847229"
+           y="229.30554"><tspan
+             style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:3.52777px;font-family:'Zilla Slab';letter-spacing:0px;writing-mode:lr-tb;fill:url(#swatch132);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+             sodipodi:role="line"
+             id="tspan2-9-0-5-9-8-3-7"
+             x="75.847229"
+             y="229.30554">TikTok TAC Moderation Workstation | Professional</tspan></text>
+        <text
+           id="text5-4-1-4-4-8-8-6"
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
+           x="75.847229"
+           y="45.861111"
+           transform="translate(-1.8760734e-5,186.97218)"><tspan
+             x="75.847229"
+             y="45.861111"
+             id="tspan109"><tspan
+               style="font-family:'IBM Plex Sans';fill:#231f20"
+               id="tspan108">First site launched February 2023, subsequent sites launched later
+</tspan></tspan><tspan
+             x="75.847229"
+             y="49.400202"
+             id="tspan111"><tspan
+               style="font-family:'IBM Plex Sans';fill:#231f20"
+               id="tspan110">Led software development and served as primary contributor for a set of kiosks </tspan></tspan><tspan
+             x="75.847229"
+             y="52.939295"
+             id="tspan113"><tspan
+               style="font-family:'IBM Plex Sans';fill:#231f20"
+               id="tspan112">demonstrating TikTok's moderation process. Kiosk application built in Electron with full </tspan></tspan><tspan
+             x="75.847229"
+             y="56.478388"
+             id="tspan115"><tspan
+               style="font-family:'IBM Plex Sans';fill:#231f20"
+               id="tspan114">multilingual support and Strapi-based, client-facing content management system.</tspan></tspan></text>
+      </g>
+    </a>
+    <a
+       id="a314-1"
+       xlink:href="https://thingsbyspoon.cc/work/zobits"
+       transform="translate(-2.1887206e-6,17.638891)">
+      <g
+         id="g292-2">
+        <text
+           id="text2-8-5-1-46-2-8-4-7-7"
+           xml:space="preserve"
+           style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
+           x="75.847229"
+           y="254"><tspan
+             style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:3.52777px;font-family:'Zilla Slab';letter-spacing:0px;writing-mode:lr-tb;fill:url(#swatch132);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+             sodipodi:role="line"
+             id="tspan2-9-0-5-9-8-3-7-9-0"
+             x="75.847229"
+             y="254">Zobits | Personal</tspan></text>
+        <text
+           id="text5-4-1-4-4-8-8-6-0-9"
+           xml:space="preserve"
+           style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
+           x="75.847229"
+           y="45.861111"
+           transform="translate(-2.1760734e-5,211.66663)"><tspan
+             x="75.847229"
+             y="45.861111"
+             id="tspan117"><tspan
+               style="font-family:'IBM Plex Sans';fill:#231f20"
+               id="tspan116">Completed May 2021
+</tspan></tspan><tspan
+             x="75.847229"
+             y="49.400202"
+             id="tspan119"><tspan
+               style="font-family:'IBM Plex Sans';fill:#231f20"
+               id="tspan118">Developed electronics and collaborated on mobile app and product design for a creative </tspan></tspan><tspan
+             x="75.847229"
+             y="52.939295"
+             id="tspan121"><tspan
+               style="font-family:'IBM Plex Sans';fill:#231f20"
+               id="tspan120">toy with which users create digital biomes by selecting from a set of Bluetooth-enabled </tspan></tspan><tspan
+             x="75.847229"
+             y="56.478388"
+             id="tspan123"><tspan
+               style="font-family:'IBM Plex Sans';fill:#231f20"
+               id="tspan122">magnetic organism figures. Generated biomes develop over the course of a week, with </tspan></tspan><tspan
+             x="75.847229"
+             y="60.017481"
+             id="tspan125"><tspan
+               style="font-family:'IBM Plex Sans';fill:#231f20"
+               id="tspan124">varying levels of success determined by a genetic algorithm.</tspan></tspan></text>
+      </g>
+    </a>
   </g>
 </svg>
