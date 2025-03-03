@@ -12,12 +12,12 @@
    inkscape:export-filename="../resume.pdf"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -29,16 +29,15 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="2"
-     inkscape:cx="499.75"
-     inkscape:cy="255.75"
-     inkscape:window-width="1850"
-     inkscape:window-height="1016"
-     inkscape:window-x="70"
-     inkscape:window-y="27"
+     inkscape:zoom="1.1219041"
+     inkscape:cx="303.50187"
+     inkscape:cy="-94.036557"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <inkscape:grid
+     inkscape:current-layer="layer1"><inkscape:grid
        id="grid1"
        units="pt"
        originx="0"
@@ -53,42 +52,31 @@
        dotted="false"
        gridanglex="30"
        gridanglez="30"
-       visible="true" />
-  </sodipodi:namedview>
-  <defs
-     id="defs1">
-    <rect
+       visible="true" /></sodipodi:namedview><defs
+     id="defs1"><rect
        x="597.70831"
        y="284.81335"
        width="409.78912"
        height="51.106777"
-       id="rect284" />
-    <linearGradient
+       id="rect284" /><linearGradient
        id="swatch132"
        inkscape:swatch="solid"
        inkscape:label="black"
        inkscape:pinned="true"
-       gradientTransform="matrix(3.4306404e-4,0,0,3.4306404e-4,54.645892,484.98692)">
-      <stop
+       gradientTransform="matrix(3.4306404e-4,0,0,3.4306404e-4,54.645892,484.98692)"><stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
-         id="stop132" />
-    </linearGradient>
-    <linearGradient
+         id="stop132" /></linearGradient><linearGradient
        id="swatch131"
        inkscape:swatch="solid"
        inkscape:label="bright-red"
-       inkscape:pinned="true">
-      <stop
+       inkscape:pinned="true"><stop
          style="stop-color:#f66151;stop-opacity:1;"
          offset="0"
-         id="stop131" />
-    </linearGradient>
-    <color-profile
+         id="stop131" /></linearGradient><color-profile
        name="sRGB"
        xlink:href="file:///usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile1" />
-    <linearGradient
+       id="color-profile1" /><linearGradient
        inkscape:collect="always"
        xlink:href="#swatch131"
        id="linearGradient159"
@@ -96,8 +84,7 @@
        x1="1.152"
        y1="-7.152"
        x2="233.35454"
-       y2="-7.152" />
-    <linearGradient
+       y2="-7.152" /><linearGradient
        inkscape:collect="always"
        xlink:href="#swatch131"
        id="linearGradient184"
@@ -106,8 +93,7 @@
        x1="1.152"
        y1="-7.152"
        x2="233.35454"
-       y2="-7.152" />
-    <linearGradient
+       y2="-7.152" /><linearGradient
        inkscape:collect="always"
        xlink:href="#swatch131"
        id="linearGradient254"
@@ -116,8 +102,7 @@
        x1="1.152"
        y1="-7.152"
        x2="233.35454"
-       y2="-7.152" />
-    <linearGradient
+       y2="-7.152" /><linearGradient
        inkscape:collect="always"
        xlink:href="#swatch131"
        id="linearGradient258"
@@ -126,8 +111,7 @@
        x1="1.152"
        y1="-7.152"
        x2="233.35454"
-       y2="-7.152" />
-    <linearGradient
+       y2="-7.152" /><linearGradient
        inkscape:collect="always"
        xlink:href="#swatch131"
        id="linearGradient266"
@@ -136,8 +120,7 @@
        x1="1.152"
        y1="-7.152"
        x2="233.35454"
-       y2="-7.152" />
-    <linearGradient
+       y2="-7.152" /><linearGradient
        inkscape:collect="always"
        xlink:href="#swatch131"
        id="linearGradient279"
@@ -146,8 +129,7 @@
        x1="1.152"
        y1="-7.152"
        x2="233.35454"
-       y2="-7.152" />
-    <linearGradient
+       y2="-7.152" /><linearGradient
        inkscape:collect="always"
        xlink:href="#swatch131"
        id="linearGradient53"
@@ -156,16 +138,12 @@
        x1="1.152"
        y1="-7.152"
        x2="233.35454"
-       y2="-7.152" />
-  </defs>
-  <g
+       y2="-7.152" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
+     id="layer1"><g
        id="g2"
-       transform="matrix(0.26458333,0,0,0.26458333,-1.1119552,-1.5037507)">
-      <text
+       transform="matrix(0.26458333,0,0,0.26458333,-1.1119552,-1.5037507)"><text
          id="text2"
          xml:space="preserve"
          transform="matrix(1.3333333,0,0,1.3333333,22.666667,53.843467)"
@@ -174,9 +152,7 @@
            sodipodi:role="line"
            id="tspan2"
            x="0"
-           y="0">Swan Carpenter</tspan></text>
-    </g>
-    <text
+           y="0">Swan Carpenter</tspan></text></g><text
        id="text2-8"
        xml:space="preserve"
        style="font-size:4.23333px;letter-spacing:0px;fill:url(#linearGradient184);fill-opacity:1;stroke-width:0.352777"
@@ -186,8 +162,7 @@
          sodipodi:role="line"
          id="tspan2-9"
          x="5.291667"
-         y="35.277779">Education</tspan></text>
-    <text
+         y="35.277779">Education</tspan></text><text
        id="text2-8-02"
        xml:space="preserve"
        style="font-size:4.23333px;letter-spacing:0px;fill:url(#linearGradient279);fill-opacity:1;stroke-width:0.352777"
@@ -197,8 +172,7 @@
          sodipodi:role="line"
          id="tspan2-9-7"
          x="75.847229"
-         y="35.277779">Work Experience</tspan></text>
-    <text
+         y="35.277779">Work Experience</tspan></text><text
        id="text2-8-0"
        xml:space="preserve"
        style="font-size:4.23333px;letter-spacing:0px;fill:url(#linearGradient254);fill-opacity:1;stroke-width:0.352777"
@@ -208,8 +182,7 @@
          sodipodi:role="line"
          id="tspan2-9-6"
          x="5.291667"
-         y="67.027779">Relevant Coursework</tspan></text>
-    <text
+         y="67.027779">Relevant Coursework</tspan></text><text
        id="text2-8-0-5"
        xml:space="preserve"
        style="font-size:4.23333px;letter-spacing:0px;fill:url(#linearGradient258);fill-opacity:1;stroke-width:0.352777"
@@ -219,8 +192,7 @@
          sodipodi:role="line"
          id="tspan2-9-6-9"
          x="5.291667"
-         y="148.16666">Skillset</tspan></text>
-    <text
+         y="148.16666">Skillset</tspan></text><text
        id="text2-8-0-5-6"
        xml:space="preserve"
        style="font-size:4.23333px;letter-spacing:0px;fill:url(#linearGradient266);fill-opacity:1;stroke-width:0.352777"
@@ -230,13 +202,11 @@
          sodipodi:role="line"
          id="tspan2-9-6-9-2"
          x="5.291667"
-         y="222.25">Honors and Awards</tspan></text>
-    <a
+         y="222.25">Honors and Awards</tspan></text><a
        id="a128"
        target=""
        xlink:href="mailto:swanio@duck.com"
-       transform="matrix(0.26458333,0,0,0.26458333,-1.5023998,-1.4090253)">
-      <text
+       transform="matrix(0.26458333,0,0,0.26458333,2.025378,3.8826419)"><text
          id="text5"
          xml:space="preserve"
          style="font-size:16px;line-height:18.5764px;letter-spacing:0px;stroke-width:1.33333"
@@ -246,13 +216,10 @@
            sodipodi:role="line"
            x="25.678364"
            y="78.658783"
-           id="tspan127">swanio@duck.com</tspan></text>
-    </a>
-    <a
+           id="tspan127">swanio@duck.com</tspan></text></a><a
        id="a129"
        xlink:href="tel:+019786264774"
-       transform="matrix(0.26458333,0,0,0.26458333,-1.210733,-1.7145797)">
-      <text
+       transform="matrix(0.26458333,0,0,0.26458333,49.968357,-1.7780798)"><text
          id="text5-68"
          xml:space="preserve"
          style="font-size:16px;line-height:18.5764px;letter-spacing:0px;stroke-width:1.33333"
@@ -262,13 +229,10 @@
            sodipodi:role="line"
            x="24.576"
            y="99.813637"
-           id="tspan127-8">+1 (978) 626 4774</tspan></text>
-    </a>
-    <a
+           id="tspan127-8">+1 (978) 626 4774</tspan></text></a><a
        id="a130"
        xlink:href="https://thingsbyspoon.cc/"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.5857309,-2.0062469)">
-      <text
+       transform="matrix(0.26458333,0,0,0.26458333,47.56705,3.2854198)"><text
          id="text5-6"
          xml:space="preserve"
          style="font-size:16px;line-height:18.5764px;letter-spacing:0px;fill:url(#swatch132);stroke-width:1.33333"
@@ -278,13 +242,10 @@
            sodipodi:role="line"
            x="213.55238"
            y="80.916"
-           id="tspan127-6">thingsbyspoon.cc</tspan></text>
-    </a>
-    <a
+           id="tspan127-6">thingsbyspoon.cc</tspan></text></a><a
        id="a131"
        xlink:href="https://github.com/pitworker"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.5857309,-1.7145797)">
-      <text
+       transform="matrix(0.26458333,0,0,0.26458333,91.664275,-1.7145797)"><text
          id="text5-6-4"
          xml:space="preserve"
          style="font-size:16px;line-height:18.5764px;letter-spacing:0px;stroke-width:1.33333"
@@ -294,27 +255,31 @@
            sodipodi:role="line"
            x="213.55238"
            y="99.813637"
-           id="tspan127-6-3">github.com/pitworker</tspan></text>
-    </a>
-    <text
+           id="tspan127-6-3">pitworker</tspan></text></a><a
+       id="a131-5"
+       xlink:href="https://github.com/pitworker"
+       transform="matrix(0.26458333,0,0,0.26458333,115.52016,-11.044842)"><text
+         id="text5-6-4-3"
+         xml:space="preserve"
+         style="font-size:16px;line-height:18.5764px;letter-spacing:0px;stroke-width:1.33333"
+         x="236.88196"
+         y="135.07762"><tspan
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:18.5764px;font-family:'IBM Plex Sans';letter-spacing:0px;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+           sodipodi:role="line"
+           x="236.88196"
+           y="135.07762"
+           id="tspan127-6-3-5">swanio</tspan></text></a><text
        id="text5-4"
        xml:space="preserve"
        style="font-size:4.23333px;line-height:5.29167px;letter-spacing:0px;stroke-width:0.352777"
-       x="105.83334"
-       y="19.402777"><tspan
+       x="5.291667"
+       y="19.402779"><tspan
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.29167px;font-family:'IBM Plex Sans';letter-spacing:0px;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
          sodipodi:role="line"
-         x="105.83334"
-         y="19.402777"
-         id="tspan6-52">Swan is a software engineer creating highly</tspan><tspan
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.29167px;font-family:'IBM Plex Sans';letter-spacing:0px;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
-         sodipodi:role="line"
-         x="105.83334"
-         y="24.780106"
-         id="tspan127-5">interactive web-based and tactile experiences.</tspan></text>
-    <g
-       id="g308">
-      <text
+         x="5.291667"
+         y="19.402779"
+         id="tspan127-5">Swan is a fullstack engineer building highly interactive web experiences.</tspan></text><g
+       id="g308"><text
          id="text2-8-5"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -324,8 +289,7 @@
            sodipodi:role="line"
            id="tspan2-9-0"
            x="5.291667"
-           y="42.333332">Carnegie Mellon University</tspan></text>
-      <text
+           y="42.333332">Carnegie Mellon University</tspan></text><text
          id="text5-4-1"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -350,11 +314,8 @@
            sodipodi:role="line"
            x="5.291667"
            y="56.478394"
-           id="tspan157">QPA 3.61, College Honors</tspan></text>
-    </g>
-    <g
-       id="g309">
-      <text
+           id="tspan157">QPA 3.61, College Honors</tspan></text></g><g
+       id="g309"><text
          id="text2-8-5-1"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -364,8 +325,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-5"
            x="75.847229"
-           y="42.333332">Fullstack Developer | studio5C</tspan></text>
-      <text
+           y="42.333332">Fullstack Developer | studio5C</tspan></text><text
          id="text5-4-1-4"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
@@ -373,79 +333,75 @@
          y="45.861111"><tspan
            x="75.847229"
            y="45.861111"
-           id="tspan8"><tspan
+           id="tspan3"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan7">October 2023 - Present
+             id="tspan1">October 2023 - Present
 </tspan></tspan><tspan
            x="75.847229"
            y="49.400202"
-           id="tspan22"><tspan
+           id="tspan12"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan16">Building key </tspan><tspan
+             id="tspan4">Building key </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan17">frontend</tspan><tspan
+             id="tspan5">frontend</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan18"> and </tspan><tspan
+             id="tspan6"> and </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan19">fullstack</tspan><tspan
+             id="tspan9">fullstack</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan20"> features for consumer-facing web app and </tspan><tspan
+             id="tspan10"> features for consumer-facing web app and </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan21">platforms; </tspan></tspan><tspan
+             id="tspan11">platforms; </tspan></tspan><tspan
            x="75.847229"
            y="52.939295"
-           id="tspan286"><tspan
+           id="tspan40"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan27">using </tspan><tspan
+             id="tspan13">using </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan28">TypeScript</tspan><tspan
+             id="tspan15">TypeScript</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan216">, </tspan><tspan
+             id="tspan23">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan272">React</tspan><tspan
+             id="tspan24">React</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan273">, </tspan><tspan
+             id="tspan25">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan274">NextJS</tspan><tspan
+             id="tspan26">NextJS</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan275">, </tspan><tspan
+             id="tspan29">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan276">HTML</tspan><tspan
+             id="tspan30">HTML</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan277">, </tspan><tspan
+             id="tspan31">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan278">CSS</tspan><tspan
+             id="tspan32">CSS</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan279">, </tspan><tspan
+             id="tspan33">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan280">NodeJS</tspan><tspan
+             id="tspan34">NodeJS</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan281">, </tspan><tspan
+             id="tspan35">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan282">Python</tspan><tspan
+             id="tspan36">Python</tspan><tspan
              style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans'"
-             id="tspan283">, and</tspan><tspan
+             id="tspan37">, and</tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan284"> Cloudflare</tspan><tspan
+             id="tspan38"> Cloudflare</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan285">. Clients </tspan></tspan><tspan
+             id="tspan39">. Clients </tspan></tspan><tspan
            x="75.847229"
            y="56.478388"
-           id="tspan290"><tspan
+           id="tspan44"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan287">include </tspan><tspan
+             id="tspan41">include </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan288">Deeplocal, Artey.AI, Nik </tspan><tspan
+             id="tspan42">Deeplocal, Artey.AI, Nik </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan289">Bentel Studio, Magic Circle Game Studio, and Mars.</tspan></tspan></text>
-    </g>
-    <a
+             id="tspan43">Bentel Studio, Magic Circle Game Studio, and Mars.</tspan></tspan></text></g><a
        id="a312"
        xlink:href="https://thingsbyspoon.cc/work/ai-postcards"
-       transform="translate(-4.2550032e-4,28.222222)">
-      <g
-         id="g297">
-        <text
+       transform="translate(-4.2550032e-4,28.222222)"><g
+         id="g297"><text
            id="text2-8-5-1-46"
            xml:space="preserve"
            style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -455,8 +411,7 @@
              sodipodi:role="line"
              id="tspan2-9-0-5-9"
              x="75.847229"
-             y="130.52779">Google Cloud Next Postcards | Professional</tspan></text>
-        <text
+             y="130.52779">Google Cloud Next Postcards | Professional</tspan></text><text
            id="text5-4-1-4-4"
            xml:space="preserve"
            style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:127.984;display:inline;stroke-width:0.352777"
@@ -465,46 +420,41 @@
            transform="translate(-3.9344823e-6,88.194447)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan292"><tspan
+             id="tspan46"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan291">Launched August 2023
+               id="tspan45">Launched August 2023
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan294"><tspan
+             id="tspan48"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan293">Led software development for a microsite enabling creation and printing of custom AI-</tspan></tspan><tspan
+               id="tspan47">Led software development for a microsite enabling creation and printing of custom AI-</tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan300"><tspan
+             id="tspan54"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan295">generated postcards. Stack includes a </tspan><tspan
+               id="tspan49">generated postcards. Stack includes a </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan296">NextJS</tspan><tspan
+               id="tspan50">NextJS</tspan><tspan
                style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans'"
-               id="tspan297"> and</tspan><tspan
+               id="tspan51"> and</tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan298"> Electron</tspan><tspan
+               id="tspan52"> Electron</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan299"> frontend using Google's </tspan></tspan><tspan
+               id="tspan53"> frontend using Google's </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan304"><tspan
+             id="tspan58"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan301">Imagen and PaLM (now Gemini) APIs, and a </tspan><tspan
+               id="tspan55">Imagen and PaLM (now Gemini) APIs, and a </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan302">NodeJS</tspan><tspan
+               id="tspan56">NodeJS</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan303"> server managing a series of printers.</tspan></tspan></text>
-      </g>
-    </a>
-    <a
+               id="tspan57"> server managing a series of printers.</tspan></tspan></text></g></a><a
        id="a312-3"
        xlink:href="https://thingsbyspoon.cc/work/misc-professional"
-       transform="translate(-2.1887129e-6,7.0555484)">
-      <g
-         id="g297-5">
-        <text
+       transform="translate(-2.1887129e-6,7.0555484)"><g
+         id="g297-5"><text
            id="text2-8-5-1-46-62"
            xml:space="preserve"
            style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -514,8 +464,7 @@
              sodipodi:role="line"
              id="tspan2-9-0-5-9-9"
              x="75.847229"
-             y="130.52779">Magic Circle Platform-Wide Tutorials | Professional</tspan></text>
-        <text
+             y="130.52779">Magic Circle Platform-Wide Tutorials | Professional</tspan></text><text
            id="text5-4-1-4-4-1"
            xml:space="preserve"
            style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:127.984;display:inline;stroke-width:0.352777"
@@ -524,46 +473,41 @@
            transform="translate(-3.9344823e-6,88.194447)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan306"><tspan
+             id="tspan60"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan305">Feature launched February 2024
+               id="tspan59">Feature launched February 2024
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan308"><tspan
+             id="tspan62"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan307">Owned implementation of a platform-wide tutorials feature for an online social gaming </tspan></tspan><tspan
+               id="tspan61">Owned implementation of a platform-wide tutorials feature for an online social gaming </tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan314"><tspan
+             id="tspan68"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan309">platform. Feature is customizable per-game, and built on a stack of </tspan><tspan
+               id="tspan63">platform. Feature is customizable per-game, and built on a stack of </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan310">TypeScript</tspan><tspan
+               id="tspan64">TypeScript</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan311"> and </tspan><tspan
+               id="tspan65"> and </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan312">React</tspan><tspan
+               id="tspan66">React</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan313"> </tspan></tspan><tspan
+               id="tspan67"> </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan318"><tspan
+             id="tspan72"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan315">on a serverless </tspan><tspan
+               id="tspan69">on a serverless </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan316">Cloudflare</tspan><tspan
+               id="tspan70">Cloudflare</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan317"> infrastructure.</tspan></tspan></text>
-      </g>
-    </a>
-    <a
+               id="tspan71"> infrastructure.</tspan></tspan></text></g></a><a
        id="a316"
        xlink:href="https://thingsbyspoon.cc/work/misc-professional"
-       transform="translate(-2.1887129e-6,21.166668)">
-      <g
-         id="g296">
-        <text
+       transform="translate(-2.1887129e-6,21.166668)"><g
+         id="g296"><text
            id="text2-8-5-1-46-6"
            xml:space="preserve"
            style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -573,8 +517,7 @@
              sodipodi:role="line"
              id="tspan2-9-0-5-9-5"
              x="75.847229"
-             y="158.75">Virgin Voyages Jen AI | Professional</tspan></text>
-        <text
+             y="158.75">Virgin Voyages Jen AI | Professional</tspan></text><text
            id="text5-4-1-4-4-2"
            xml:space="preserve"
            style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
@@ -583,63 +526,58 @@
            transform="translate(-8.5104413e-6,116.41665)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan320"><tspan
+             id="tspan74"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan319">Launched June 2023
+               id="tspan73">Launched June 2023
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan326"><tspan
+             id="tspan80"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan321">Collaborated on development of a </tspan><tspan
+               id="tspan75">Collaborated on development of a </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan322">Google Cloud Platform</tspan><tspan
+               id="tspan76">Google Cloud Platform</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan323"> hosted </tspan><tspan
+               id="tspan77"> hosted </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan324">TypeScript</tspan><tspan
+               id="tspan78">TypeScript</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan325"> middleware </tspan></tspan><tspan
+               id="tspan79"> middleware </tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan331"><tspan
+             id="tspan85"><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan327">REST API</tspan><tspan
+               id="tspan81">REST API</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan328"> interfacing between </tspan><tspan
+               id="tspan82"> interfacing between </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan329">frontend and </tspan><tspan
+               id="tspan83">frontend and </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan330">AI server to generate, stitch, and stream </tspan></tspan><tspan
+               id="tspan84">AI server to generate, stitch, and stream </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan336"><tspan
+             id="tspan90"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan332">custom (consensual) </tspan><tspan
+               id="tspan86">custom (consensual) </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan333">deepfaked </tspan><tspan
+               id="tspan87">deepfaked </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan334">invitation videos </tspan><tspan
+               id="tspan88">invitation videos </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan335">featuring Jennifer Lopez inviting the </tspan></tspan><tspan
+               id="tspan89">featuring Jennifer Lopez inviting the </tspan></tspan><tspan
              x="75.847229"
              y="60.017481"
-             id="tspan340"><tspan
+             id="tspan94"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan337">recipient on a </tspan><tspan
+               id="tspan91">recipient on a </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan338">personalized Virgin </tspan><tspan
+               id="tspan92">personalized Virgin </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan339">cruise experience.</tspan></tspan></text>
-      </g>
-    </a>
-    <a
+               id="tspan93">cruise experience.</tspan></tspan></text></g></a><a
        id="a2"
        xlink:href="https://thingsbyspoon.cc/work/misc-professional"
-       transform="translate(4.0112871e-6,17.638888)">
-      <g
-         id="g295">
-        <text
+       transform="translate(4.0112871e-6,17.638888)"><g
+         id="g295"><text
            id="text2-8-5-1-46-2"
            xml:space="preserve"
            style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -649,8 +587,7 @@
              sodipodi:role="line"
              id="tspan2-9-0-5-9-8"
              x="75.846817"
-             y="186.97223">Highmark &quot;How's It Going?&quot; | Professional</tspan></text>
-        <text
+             y="186.97223">Highmark &quot;How's It Going?&quot; | Professional</tspan></text><text
            id="text5-4-1-4-4-8"
            xml:space="preserve"
            style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
@@ -659,63 +596,58 @@
            transform="translate(-4.272461e-4,144.63889)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan342"><tspan
+             id="tspan96"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan341">Launched May 2023
+               id="tspan95">Launched May 2023
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan352"><tspan
+             id="tspan106"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan343">Built out a server using </tspan><tspan
+               id="tspan97">Built out a server using </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan344">Rust</tspan><tspan
+               id="tspan98">Rust</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan345"> and </tspan><tspan
+               id="tspan99"> and </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan346">Tokio</tspan><tspan
+               id="tspan100">Tokio</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan347"> and a series of </tspan><tspan
+               id="tspan101"> and a series of </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan348">JavaScript</tspan><tspan
+               id="tspan102">JavaScript</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan349">/</tspan><tspan
+               id="tspan103">/</tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan350">React</tspan><tspan
+               id="tspan104">React</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan351"> frontends to </tspan></tspan><tspan
+               id="tspan105"> frontends to </tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan355"><tspan
+             id="tspan109"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan353">maintain a queue of user-generated survey data </tspan><tspan
+               id="tspan107">maintain a queue of user-generated survey data </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan354">being simultaneously created, edited, </tspan></tspan><tspan
+               id="tspan108">being simultaneously created, edited, </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan359"><tspan
+             id="tspan113"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan356">and </tspan><tspan
+               id="tspan110">and </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan357">removed by multiple visitor- and staff-facing </tspan><tspan
+               id="tspan111">removed by multiple visitor- and staff-facing </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan358">clients. Presented as part of the launch </tspan></tspan><tspan
+               id="tspan112">clients. Presented as part of the launch </tspan></tspan><tspan
              x="75.847229"
              y="60.017481"
-             id="tspan362"><tspan
+             id="tspan116"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan360">event </tspan><tspan
+               id="tspan114">event </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan361">for Highmark's &quot;How's It Going?&quot; campaign.</tspan></tspan></text>
-      </g>
-    </a>
-    <a
+               id="tspan115">for Highmark's &quot;How's It Going?&quot; campaign.</tspan></tspan></text></g></a><a
        id="a313"
        xlink:href="https://thingsbyspoon.cc/work/misc-professional"
-       transform="translate(-4.1418871e-4,24.694474)">
-      <g
-         id="g294">
-        <text
+       transform="translate(-4.1418871e-4,24.694474)"><g
+         id="g294"><text
            id="text2-8-5-1-46-2-8"
            xml:space="preserve"
            style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -725,8 +657,7 @@
              sodipodi:role="line"
              id="tspan2-9-0-5-9-8-3"
              x="75.847229"
-             y="204.61111">Mobile-Powered Synthesizer | Professional</tspan></text>
-        <text
+             y="204.61111">Mobile-Powered Synthesizer | Professional</tspan></text><text
            id="text5-4-1-4-4-8-8"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:3.47485px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
@@ -735,52 +666,47 @@
            transform="translate(-1.4760734e-5,162.27775)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan364"><tspan
+             id="tspan118"><tspan
                style="fill:#231f20"
-               id="tspan363">Completed September 2022
+               id="tspan117">Completed September 2022
 </tspan></tspan><tspan
              x="75.847229"
              y="49.335959"
-             id="tspan366"><tspan
+             id="tspan120"><tspan
                style="fill:#231f20"
-               id="tspan365">Contributed to a mobile web app and accompanying SDK for a line of Android phone </tspan></tspan><tspan
+               id="tspan119">Contributed to a mobile web app and accompanying SDK for a line of Android phone </tspan></tspan><tspan
              x="75.847229"
              y="52.810808"
-             id="tspan371"><tspan
+             id="tspan125"><tspan
    style="fill:#231f20"
-   id="tspan367">powered MIDI synthesizers. Was responsible for major pieces of the </tspan><tspan
+   id="tspan121">powered MIDI synthesizers. Was responsible for major pieces of the </tspan><tspan
    style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-   id="tspan368">JavaScript</tspan>/<tspan
+   id="tspan122">JavaScript</tspan>/<tspan
    style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-   id="tspan369">DOM</tspan><tspan
+   id="tspan123">DOM</tspan><tspan
    style="fill:#231f20"
-   id="tspan370"> </tspan></tspan><tspan
+   id="tspan124"> </tspan></tspan><tspan
              x="75.847229"
              y="56.285658"
-             id="tspan379"><tspan
+             id="tspan134"><tspan
                style="fill:#231f20"
-               id="tspan372">website and </tspan><tspan
+               id="tspan126">website and </tspan><tspan
                style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan373">Dart</tspan><tspan
+               id="tspan128">Dart</tspan><tspan
                style="fill:#231f20"
-               id="tspan374">/</tspan><tspan
+               id="tspan129">/</tspan><tspan
                style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan375">Flutter</tspan><tspan
+               id="tspan130">Flutter</tspan><tspan
                style="fill:#231f20"
-               id="tspan376"> mobile app, as well as </tspan><tspan
+               id="tspan131"> mobile app, as well as </tspan><tspan
                style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan377">documentation</tspan><tspan
+               id="tspan132">documentation</tspan><tspan
                style="fill:#231f20"
-               id="tspan378"> for the app's SDK. </tspan></tspan></text>
-      </g>
-    </a>
-    <a
+               id="tspan133"> for the app's SDK. </tspan></tspan></text></g></a><a
        id="a315"
        xlink:href="https://thingsbyspoon.cc/work/moderation-workstation"
-       transform="translate(1.8112871e-6,21.166681)">
-      <g
-         id="g293">
-        <text
+       transform="translate(1.8112871e-6,21.166681)"><g
+         id="g293"><text
            id="text2-8-5-1-46-2-8-4"
            xml:space="preserve"
            style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -790,8 +716,7 @@
              sodipodi:role="line"
              id="tspan2-9-0-5-9-8-3-7"
              x="75.847229"
-             y="229.30554">TikTok TAC Moderation Workstation | Professional</tspan></text>
-        <text
+             y="229.30554">TikTok TAC Moderation Workstation | Professional</tspan></text><text
            id="text5-4-1-4-4-8-8-6"
            xml:space="preserve"
            style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
@@ -800,51 +725,46 @@
            transform="translate(-1.8760734e-5,186.97218)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan381"><tspan
+             id="tspan136"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan380">First site launched February 2023, subsequent sites launched later
+               id="tspan135">First site launched February 2023, subsequent sites launched later
 </tspan></tspan><tspan
              x="75.847229"
              y="49.400202"
-             id="tspan383"><tspan
+             id="tspan138"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan382">Led software development and served as primary contributor for a set of kiosks </tspan></tspan><tspan
+               id="tspan137">Led software development and served as primary contributor for a set of kiosks </tspan></tspan><tspan
              x="75.847229"
              y="52.939295"
-             id="tspan387"><tspan
+             id="tspan142"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan384">demonstrating TikTok's moderation process. Kiosk application built in </tspan><tspan
+               id="tspan139">demonstrating TikTok's moderation process. Kiosk application built in </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan385">JavaScript</tspan><tspan
+               id="tspan140">JavaScript</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan386"> and </tspan></tspan><tspan
+               id="tspan141"> and </tspan></tspan><tspan
              x="75.847229"
              y="56.478388"
-             id="tspan393"><tspan
+             id="tspan148"><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan388">Electron</tspan><tspan
+               id="tspan143">Electron</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan389"> with full </tspan><tspan
+               id="tspan144"> with full </tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan390">multilingual support and </tspan><tspan
+               id="tspan145">multilingual support and </tspan><tspan
                style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan391">Strapi</tspan><tspan
+               id="tspan146">Strapi</tspan><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan392">-based, client-facing content </tspan></tspan><tspan
+               id="tspan147">-based, client-facing content </tspan></tspan><tspan
              x="75.847229"
              y="60.017481"
-             id="tspan395"><tspan
+             id="tspan150"><tspan
                style="font-family:'IBM Plex Sans';fill:#231f20"
-               id="tspan394">management system.</tspan></tspan></text>
-      </g>
-    </a>
-    <a
+               id="tspan149">management system.</tspan></tspan></text></g></a><a
        id="a314-3"
        xlink:href="https://thingsbyspoon.cc/work/tartan-generator"
-       transform="translate(1.8112871e-6,21.166668)">
-      <g
-         id="g292-8">
-        <text
+       transform="translate(1.8112871e-6,21.166668)"><g
+         id="g292-8"><text
            id="text2-8-5-1-46-2-8-4-7-5"
            xml:space="preserve"
            style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -854,8 +774,7 @@
              sodipodi:role="line"
              id="tspan2-9-0-5-9-8-3-7-9-6"
              x="75.847229"
-             y="254">Tartan Generator | Personal</tspan></text>
-        <text
+             y="254">Tartan Generator | Personal</tspan></text><text
            id="text5-4-1-4-4-8-8-6-0-1"
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:3.47485px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
@@ -864,56 +783,52 @@
            transform="translate(-2.1760734e-5,211.66663)"><tspan
              x="75.847229"
              y="45.861111"
-             id="tspan397"><tspan
+             id="tspan152"><tspan
                style="fill:#231f20"
-               id="tspan396">Completed August 2022
+               id="tspan151">Completed August 2022
 </tspan></tspan><tspan
              x="75.847229"
              y="49.335959"
-             id="tspan405"><tspan
+             id="tspan163"><tspan
                style="fill:#231f20"
-               id="tspan398">Conceived, designed, and developed a </tspan><tspan
+               id="tspan153">Conceived, designed, and developed a </tspan><tspan
                style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan399">JavaScript</tspan><tspan
+               id="tspan156">JavaScript</tspan><tspan
                style="fill:#231f20"
-               id="tspan400"> and </tspan><tspan
+               id="tspan158"> and </tspan><tspan
                style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan401">Rust</tspan><tspan
+               id="tspan159">Rust</tspan><tspan
                style="fill:#231f20"
-               id="tspan402">/</tspan><tspan
+               id="tspan160">/</tspan><tspan
                style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan403">WebAssembly</tspan><tspan
+               id="tspan161">WebAssembly</tspan><tspan
                style="fill:#231f20"
-               id="tspan404"> based web </tspan></tspan><tspan
+               id="tspan162"> based web </tspan></tspan><tspan
              x="75.847229"
              y="52.810808"
-             id="tspan407"><tspan
+             id="tspan165"><tspan
                style="fill:#231f20"
-               id="tspan406">app that allows users to upload images to generate tartan plaids based on color palettes </tspan></tspan><tspan
+               id="tspan164">app that allows users to upload images to generate tartan plaids based on color palettes </tspan></tspan><tspan
              x="75.847229"
              y="56.285658"
-             id="tspan410"><tspan
+             id="tspan168"><tspan
                style="fill:#231f20"
-               id="tspan408">extracted from the images using a K-Means algorithm. Plaids are drawn using the </tspan><tspan
+               id="tspan166">extracted from the images using a K-Means algorithm. Plaids are drawn using the </tspan><tspan
                style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan409">HTML </tspan></tspan><tspan
+               id="tspan167">HTML </tspan></tspan><tspan
              x="75.847229"
              y="59.760508"
-             id="tspan415"><tspan
+             id="tspan181"><tspan
                style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan411">Canvas</tspan><tspan
+               id="tspan175">Canvas</tspan><tspan
                style="fill:#231f20"
-               id="tspan412"> and direct </tspan><tspan
+               id="tspan177"> and direct </tspan><tspan
                style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-               id="tspan413">DOM manipulation</tspan><tspan
+               id="tspan178">DOM manipulation</tspan><tspan
                style="fill:#231f20"
-               id="tspan414">.</tspan></tspan></text>
-      </g>
-    </a>
-    <g
+               id="tspan180">.</tspan></tspan></text></g></a><g
        id="g310"
-       transform="translate(-2.1887167e-6,3.5277792)">
-      <text
+       transform="translate(-2.1887167e-6,3.5277792)"><text
          id="text2-8-5-1-4"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -923,8 +838,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-5-8"
            x="75.847229"
-           y="59.972221">Software Engineer | Deeplocal</tspan></text>
-      <text
+           y="59.972221">Software Engineer | Deeplocal</tspan></text><text
          id="text5-4-1-4-0"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
@@ -932,93 +846,90 @@
          y="63.5"><tspan
            x="75.847229"
            y="63.5"
-           id="tspan417"><tspan
+           id="tspan183"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan416">June 2021 - May 2022 (lvl. 1), May 2022 - October 2023 (lvl. 2)
+             id="tspan182">June 2021 - May 2022 (lvl. 1), May 2022 - October 2023 (lvl. 2)
 </tspan></tspan><tspan
            x="75.847229"
            y="67.039091"
-           id="tspan421"><tspan
+           id="tspan187"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan418">Leading software development, designing </tspan><tspan
+             id="tspan184">Leading software development, designing </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan419">system architectures</tspan><tspan
+             id="tspan185">system architectures</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan420">, and writing code for </tspan></tspan><tspan
+             id="tspan186">, and writing code for </tspan></tspan><tspan
            x="75.847229"
            y="70.578184"
-           id="tspan429"><tspan
+           id="tspan200"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan422">award-winning interactive </tspan><tspan
+             id="tspan188">award-winning interactive </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan423">frontend</tspan><tspan
+             id="tspan189">frontend</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan424"> and </tspan><tspan
+             id="tspan190"> and </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan425">fullstack</tspan><tspan
+             id="tspan191">fullstack</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan426"> web experiences; using </tspan><tspan
+             id="tspan192"> web experiences; using </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan427">JavaScript</tspan><tspan
+             id="tspan198">JavaScript</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan428">, </tspan></tspan><tspan
+             id="tspan199">, </tspan></tspan><tspan
            x="75.847229"
            y="74.117277"
-           id="tspan447"><tspan
+           id="tspan225"><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan430">TypeScript</tspan><tspan
+             id="tspan201">TypeScript</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan431">, </tspan><tspan
+             id="tspan202">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan432">React</tspan><tspan
+             id="tspan203">React</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan433">, </tspan><tspan
+             id="tspan204">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan434">NextJS</tspan><tspan
+             id="tspan205">NextJS</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan435">, </tspan><tspan
+             id="tspan206">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan436">HTML</tspan><tspan
+             id="tspan207">HTML</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan437">, </tspan><tspan
+             id="tspan209">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan438">CSS</tspan><tspan
+             id="tspan211">CSS</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan439">, </tspan><tspan
+             id="tspan213">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan440">NodeJS</tspan><tspan
+             id="tspan216">NodeJS</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan441">, </tspan><tspan
+             id="tspan217">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan442">Express</tspan><tspan
+             id="tspan220">Express</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan443">, </tspan><tspan
+             id="tspan221">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan444">Electron</tspan><tspan
+             id="tspan222">Electron</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan445">, and </tspan><tspan
+             id="tspan223">, and </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan446">Google Cloud </tspan></tspan><tspan
+             id="tspan224">Google Cloud </tspan></tspan><tspan
            x="75.847229"
            y="77.65637"
-           id="tspan454"><tspan
+           id="tspan234"><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan448">Platform</tspan><tspan
+             id="tspan226">Platform</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan449">. </tspan><tspan
+             id="tspan227">. </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan450">Clients </tspan><tspan
+             id="tspan228">Clients </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan451">include Google, Meta, </tspan><tspan
+             id="tspan231">include Google, Meta, </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan452">Netflix, </tspan><tspan
+             id="tspan232">Netflix, </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan453">TikTok, Museum of the Future, and Virgin.</tspan></tspan></text>
-    </g>
-    <g
+             id="tspan233">TikTok, Museum of the Future, and Virgin.</tspan></tspan></text></g><g
        id="g311"
-       transform="translate(-4.2943481e-4,7.0555513)">
-      <text
+       transform="translate(-4.2943481e-4,7.0555513)"><text
          id="text2-8-5-1-4-2"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1028,8 +939,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-5-8-2"
            x="75.847229"
-           y="81.138893">UX Prototyping Intern | Motional (Aptiv-Hyundai JV)</tspan></text>
-      <text
+           y="81.138893">UX Prototyping Intern | Motional (Aptiv-Hyundai JV)</tspan></text><text
          id="text5-4-1-4-0-2"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
@@ -1037,45 +947,42 @@
          y="84.666672"><tspan
            x="75.847229"
            y="84.666672"
-           id="tspan456"><tspan
+           id="tspan236"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan455">June 2020 - August 2020
+             id="tspan235">June 2020 - August 2020
 </tspan></tspan><tspan
            x="75.847229"
            y="88.205763"
-           id="tspan458"><tspan
+           id="tspan238"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan457">Prototyping and developing functional demo of a 3D map view within the management </tspan></tspan><tspan
+             id="tspan237">Prototyping and developing functional demo of a 3D map view within the management </tspan></tspan><tspan
            x="75.847229"
            y="91.744856"
-           id="tspan466"><tspan
+           id="tspan256"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan459">software for a large fleet of autonomous vehicles; using </tspan><tspan
+             id="tspan239">software for a large fleet of autonomous vehicles; using </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan460">JavaScript</tspan><tspan
+             id="tspan242">JavaScript</tspan><tspan
              style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans'"
-             id="tspan461">, </tspan><tspan
+             id="tspan248">, </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan462">HTML</tspan><tspan
+             id="tspan249">HTML</tspan><tspan
              style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans'"
-             id="tspan463">, and </tspan><tspan
+             id="tspan250">, and </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan464">CSS</tspan><tspan
+             id="tspan254">CSS</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan465">. </tspan></tspan><tspan
+             id="tspan255">. </tspan></tspan><tspan
            x="75.847229"
            y="95.283949"
-           id="tspan470"><tspan
+           id="tspan260"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan467">Designs have since </tspan><tspan
+             id="tspan257">Designs have since </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan468">been implemented </tspan><tspan
+             id="tspan258">been implemented </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan469">into the production software. </tspan></tspan></text>
-    </g>
-    <g
-       id="g306">
-      <text
+             id="tspan259">into the production software. </tspan></tspan></text></g><g
+       id="g306"><text
          id="text2-8-5-9"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1085,8 +992,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0"
            x="5.291667"
-           y="74.083336">Computer Science</tspan></text>
-      <text
+           y="74.083336">Computer Science</tspan></text><text
          id="text5-4-1-7"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1141,11 +1047,8 @@
            sodipodi:role="line"
            x="5.291667"
            y="109.46296"
-           id="tspan157-9">Probability</tspan></text>
-    </g>
-    <g
-       id="g307">
-      <text
+           id="tspan157-9">Probability</tspan></text></g><g
+       id="g307"><text
          id="text2-8-5-9-3"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1155,8 +1058,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0-6"
            x="5.291667"
-           y="116.41667">Design</tspan></text>
-      <text
+           y="116.41667">Design</tspan></text><text
          id="text5-4-1-7-9"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1191,11 +1093,8 @@
            sodipodi:role="line"
            x="5.291667"
            y="137.63991"
-           id="tspan197">How People Work</tspan></text>
-    </g>
-    <g
-       id="g304">
-      <text
+           id="tspan197">How People Work</tspan></text></g><g
+       id="g304"><text
          id="text2-8-5-9-3-4"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1205,8 +1104,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0-6-7"
            x="5.291667"
-           y="155.22223">Web</tspan></text>
-      <text
+           y="155.22223">Web</tspan></text><text
          id="text5-4-1-7-9-7"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1266,11 +1164,8 @@
            sodipodi:role="line"
            x="5.291667"
            y="194.14095"
-           id="tspan252">Cloudflare</tspan></text>
-    </g>
-    <g
-       id="g301">
-      <text
+           id="tspan252">Cloudflare</tspan></text></g><g
+       id="g301"><text
          id="text2-8-5-9-3-4-9"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1280,8 +1175,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0-6-7-2"
            x="5.291667"
-           y="201.08334">Mobile</tspan></text>
-      <text
+           y="201.08334">Mobile</tspan></text><text
          id="text5-4-1-7-9-7-59"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1301,11 +1195,8 @@
            sodipodi:role="line"
            x="5.291667"
            y="211.68932"
-           id="tspan241">Swift/XCode</tspan></text>
-    </g>
-    <g
-       id="g298">
-      <text
+           id="tspan241">Swift/XCode</tspan></text></g><g
+       id="g298"><text
          id="text2-8-5-9-3-4-13"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1315,8 +1206,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0-6-7-1"
            x="5.291667"
-           y="229.30556">Armero Award for Inclusive Creativity</tspan></text>
-      <text
+           y="229.30556">Armero Award for Inclusive Creativity</tspan></text><text
          id="text5-4-1-7-9-7-59-4"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1335,11 +1225,8 @@
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px"
    id="tspan269">Capstone Project Award</tspan> for <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Italic';letter-spacing:0px"
-   id="tspan268">Zobits</tspan></tspan></text>
-    </g>
-    <g
-       id="g299">
-      <text
+   id="tspan268">Zobits</tspan></tspan></text></g><g
+       id="g299"><text
          id="text2-8-5-9-3-4-13-3"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1349,8 +1236,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0-6-7-1-3"
            x="5.291667"
-           y="243.41667">Pittsburgh AAF Award</tspan></text>
-      <text
+           y="243.41667">Pittsburgh AAF Award</tspan></text><text
          id="text5-4-1-7-9-7-59-4-6"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1369,11 +1255,8 @@
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px"
    id="tspan269-0">Gold </tspan>for <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Italic';letter-spacing:0px"
-   id="tspan270">Netflix Stranger Things Clock</tspan></tspan></text>
-    </g>
-    <g
-       id="g300">
-      <text
+   id="tspan270">Netflix Stranger Things Clock</tspan></tspan></text></g><g
+       id="g300"><text
          id="text2-8-5-9-3-4-13-3-7"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1383,8 +1266,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0-6-7-1-3-5"
            x="5.291667"
-           y="257.52777">National American Advertising Award</tspan></text>
-      <text
+           y="257.52777">National American Advertising Award</tspan></text><text
          id="text5-4-1-7-9-7-59-4-6-6"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1403,11 +1285,8 @@
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px"
    id="tspan269-0-7">Gold </tspan>for <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Italic';letter-spacing:0px"
-   id="tspan270-2">Doodles Genesis Factory</tspan></tspan></text>
-    </g>
-    <g
-       id="g303">
-      <text
+   id="tspan270-2">Doodles Genesis Factory</tspan></tspan></text></g><g
+       id="g303"><text
          id="text2-8-5-9-3-4-9-3"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1417,8 +1296,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0-6-7-2-6"
            x="35.277779"
-           y="183.44446">Multimedia, AI</tspan></text>
-      <text
+           y="183.44446">Multimedia, AI</tspan></text><text
          id="text5-4-1-7-9-7-59-1"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1443,11 +1321,8 @@
            sodipodi:role="line"
            x="35.277779"
            y="197.58952"
-           id="tspan253">ChatGPT/Gemini</tspan></text>
-    </g>
-    <g
-       id="g305">
-      <text
+           id="tspan253">ChatGPT/Gemini</tspan></text></g><g
+       id="g305"><text
          id="text2-8-5-9-3-4-1"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1457,8 +1332,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0-6-7-8"
            x="35.277779"
-           y="155.22223">Native</tspan></text>
-      <text
+           y="155.22223">Native</tspan></text><text
          id="text5-4-1-7-9-7-5"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1493,11 +1367,8 @@
            sodipodi:role="line"
            x="35.277779"
            y="176.44547"
-           id="tspan230">Arduino</tspan></text>
-    </g>
-    <g
-       id="g302">
-      <text
+           id="tspan230">Arduino</tspan></text></g><g
+       id="g302"><text
          id="text2-8-5-9-3-4-1-4"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1507,8 +1378,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-0-6-7-8-8"
            x="35.277779"
-           y="204.61113">Management</tspan></text>
-      <text
+           y="204.61113">Management</tspan></text><text
          id="text5-4-1-7-9-7-5-7"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;stroke-width:0.352777"
@@ -1523,42 +1393,33 @@
            sodipodi:role="line"
            x="35.277779"
            y="211.67799"
-           id="tspan230-4">Bash/Shell</tspan></text>
-    </g>
-    <path
+           id="tspan230-4">Bash/Shell</tspan></text></g><path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
        d="M 5.291667,28.222223 H 204.61112"
        id="path131"
-       sodipodi:nodetypes="cc" />
-    <path
+       sodipodi:nodetypes="cc" /><path
        style="fill:url(#swatch132);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
        d="M 72.319449,28.222227 V 292.80555"
        id="path163"
-       sodipodi:nodetypes="cc" />
-    <path
+       sodipodi:nodetypes="cc" /><path
        style="fill:url(#swatch132);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
        d="M 5.2916669,59.972223 H 72.319449"
        id="path164"
-       sodipodi:nodetypes="cc" />
-    <path
+       sodipodi:nodetypes="cc" /><path
        style="fill:url(#swatch132);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
        d="m 5.2916668,141.11112 67.0277822,-1e-5"
        id="path164-3"
-       sodipodi:nodetypes="cc" />
-    <path
+       sodipodi:nodetypes="cc" /><path
        style="fill:url(#swatch132);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
        d="M 5.2916668,215.19445 H 72.319449"
        id="path164-3-8"
-       sodipodi:nodetypes="cc" />
-    <text
+       sodipodi:nodetypes="cc" /><text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text284"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13.1333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Italic';letter-spacing:0px;white-space:pre;shape-inside:url(#rect284);display:inline;fill:url(#swatch132);fill-opacity:1;stroke:#000000;stroke-width:0.944882;stroke-dasharray:none;stroke-opacity:1" />
-    <g
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13.1333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Italic';letter-spacing:0px;white-space:pre;shape-inside:url(#rect284);display:inline;fill:url(#swatch132);fill-opacity:1;stroke:#000000;stroke-width:0.944882;stroke-dasharray:none;stroke-opacity:1" /><g
        id="g312"
-       transform="translate(-4.2943481e-4,7.0555513)">
-      <text
+       transform="translate(-4.2943481e-4,7.0555513)"><text
          id="text2-8-5-1-4-2-6"
          xml:space="preserve"
          style="font-size:3.52777px;letter-spacing:0px;fill:url(#swatch132);fill-opacity:1;stroke-width:0.352777"
@@ -1568,8 +1429,7 @@
            sodipodi:role="line"
            id="tspan2-9-0-5-8-2-2"
            x="75.847229"
-           y="102.30556">UX Prototyping Intern | Aptiv</tspan></text>
-      <text
+           y="102.30556">UX Prototyping Intern | Aptiv</tspan></text><text
          id="text5-4-1-4-0-2-5"
          xml:space="preserve"
          style="font-size:3.175px;line-height:3.47485px;letter-spacing:0px;white-space:pre;inline-size:128.764;display:inline;stroke-width:0.352777"
@@ -1578,36 +1438,33 @@
          transform="translate(-6.5599806e-7,21.166665)"><tspan
            x="75.847229"
            y="84.666672"
-           id="tspan472"><tspan
+           id="tspan262"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan471">July 2019 - August 2019
+             id="tspan261">July 2019 - August 2019
 </tspan></tspan><tspan
            x="75.847229"
            y="88.205763"
-           id="tspan474"><tspan
+           id="tspan264"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan473">Designing and implementing interactive, location-based, contextual UI elements for in-</tspan></tspan><tspan
+             id="tspan263">Designing and implementing interactive, location-based, contextual UI elements for in-</tspan></tspan><tspan
            x="75.847229"
            y="91.744856"
-           id="tspan481"><tspan
+           id="tspan275"><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan475">car </tspan><tspan
+             id="tspan265">car </tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan476">passenger displays in autonomous vehicles; using </tspan><tspan
+             id="tspan266">passenger displays in autonomous vehicles; using </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan477">Java</tspan><tspan
+             id="tspan271">Java</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan478"> and </tspan><tspan
+             id="tspan272"> and </tspan><tspan
              style="font-weight:600;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold'"
-             id="tspan479">Android Studio</tspan><tspan
+             id="tspan273">Android Studio</tspan><tspan
              style="font-family:'IBM Plex Sans';fill:#231f20"
-             id="tspan480">. </tspan></tspan></text>
-    </g>
-    <path
+             id="tspan274">. </tspan></tspan></text></g><path
        style="fill:url(#swatch132);fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
        d="M 72.319449,123.47222 H 204.61112"
-       id="path284" />
-    <text
+       id="path284" /><text
        id="text2-8-02-5"
        xml:space="preserve"
        style="font-size:4.23333px;letter-spacing:0px;fill:url(#linearGradient53);fill-opacity:1;stroke-width:0.352777"
@@ -1617,6 +1474,19 @@
          sodipodi:role="line"
          id="tspan2-9-7-1"
          x="75.847229"
-         y="130.52779">Notable Work</tspan></text>
-  </g>
-</svg>
+         y="130.52779">Notable Work</tspan></text><path
+       d="m 53.897794,21.954407 c -0.04511,-0.108975 -0.164056,-0.16698 -0.277723,-0.13593 l -0.515602,0.140618 c -0.101949,0.02812 -0.172844,0.120697 -0.172844,0.226162 0,1.449549 1.175339,2.624889 2.624886,2.624889 0.105464,0 0.198038,-0.07087 0.226161,-0.172845 l 0.140619,-0.515603 c 0.03105,-0.11367 -0.02696,-0.232605 -0.135931,-0.277725 l -0.562476,-0.23436 c -0.0955,-0.03982 -0.206241,-0.0123 -0.271277,0.06795 l -0.236708,0.288855 c -0.412483,-0.195112 -0.746452,-0.52908 -0.941561,-0.941565 l 0.288855,-0.236123 c 0.08027,-0.06563 0.107807,-0.17577 0.06796,-0.271275 l -0.234365,-0.562478 z"
+       id="path1"
+       style="fill:#231f20;fill-opacity:1;stroke-width:0.00585912" /><path
+       d="m 145.79187,24.001551 c 0,0.130625 -0.0681,0.344375 -0.22937,0.344375 -0.16125,0 -0.22938,-0.21375 -0.22938,-0.344375 0,-0.130625 0.0681,-0.344375 0.22938,-0.344375 0.16125,0 0.22937,0.21375 0.22937,0.344375 z m 1.83688,-0.315625 c 0,0.199375 -0.02,0.410625 -0.10938,0.59375 -0.23687,0.47875 -0.88812,0.4675 -1.35437,0.4675 -0.47375,0 -1.16375,0.01687 -1.41,-0.4675 -0.0913,-0.18125 -0.12625,-0.394375 -0.12625,-0.59375 0,-0.261875 0.0869,-0.509375 0.25937,-0.71 -0.0325,-0.09875 -0.0481,-0.2025 -0.0481,-0.305 0,-0.134375 0.0306,-0.201875 0.0913,-0.32375 0.28313,0 0.46438,0.05625 0.68,0.225 0.18125,-0.04312 0.3675,-0.0625 0.55438,-0.0625 0.16875,0 0.33875,0.01813 0.5025,0.0575 0.2125,-0.166875 0.39375,-0.22 0.67375,-0.22 0.0613,0.121875 0.0913,0.189375 0.0913,0.32375 0,0.1025 -0.0162,0.204375 -0.0481,0.30125 0.17187,0.2025 0.24375,0.451875 0.24375,0.71375 z m -0.40188,0.315625 c 0,-0.274375 -0.16687,-0.51625 -0.45937,-0.51625 -0.11813,0 -0.23125,0.02125 -0.35,0.0375 -0.0931,0.01438 -0.18625,0.02 -0.28188,0.02 -0.095,0 -0.18812,-0.0056 -0.28187,-0.02 -0.11688,-0.01625 -0.23125,-0.0375 -0.35,-0.0375 -0.2925,0 -0.45938,0.241875 -0.45938,0.51625 0,0.54875 0.5025,0.633125 0.94,0.633125 h 0.30125 c 0.43938,0 0.94125,-0.08375 0.94125,-0.633125 z m -0.51625,-0.344375 c -0.16125,0 -0.22937,0.21375 -0.22937,0.344375 0,0.130625 0.0681,0.344375 0.22937,0.344375 0.16125,0 0.22938,-0.21375 0.22938,-0.344375 0,-0.130625 -0.0681,-0.344375 -0.22938,-0.344375 z"
+       id="path1-6"
+       style="fill:#231f20;fill-opacity:1;stroke-width:0.00624999" /><path
+       d="m 5.572917,22.456327 c -0.1552734,0 -0.28125,0.125977 -0.28125,0.28125 0,0.08848 0.041602,0.17168 0.1125,0.225 l 1.275,0.95625 c 0.066797,0.04981 0.1582031,0.04981 0.225,0 l 1.275,-0.95625 c 0.070898,-0.05332 0.1125,-0.136523 0.1125,-0.225 0,-0.155273 -0.1259767,-0.28125 -0.28125,-0.28125 z m -0.28125,0.65625 v 1.21875 c 0,0.206836 0.1681641,0.375 0.375,0.375 h 2.2499999 c 0.2068359,0 0.3750001,-0.168164 0.3750001,-0.375 v -1.21875 l -1.275,0.95625 c -0.1335938,0.100195 -0.3164063,0.100195 -0.45,0 z"
+       id="path1-61"
+       style="fill:#231f20;fill-opacity:1;stroke-width:0.00585937" /><path
+       d="m 102.60421,23.194925 c 0,0.130078 -0.007,0.255469 -0.0193,0.375 h -1.08574 c -0.0129,-0.119531 -0.0193,-0.244922 -0.0193,-0.375 0,-0.130078 0.007,-0.255469 0.0193,-0.375 h 1.08574 c 0.0129,0.119531 0.0193,0.244922 0.0193,0.375 z m 0.16875,-0.375 h 0.72129 c 0.031,0.120117 0.0475,0.245508 0.0475,0.375 0,0.129492 -0.0164,0.254883 -0.0475,0.375 h -0.72129 c 0.0123,-0.120703 0.0187,-0.246094 0.0187,-0.375 0,-0.128906 -0.006,-0.254297 -0.0187,-0.375 z m 0.65976,-0.1875 h -0.68379 c -0.0586,-0.374414 -0.17461,-0.687891 -0.32402,-0.888281 0.45879,0.121289 0.83203,0.454101 1.00723,0.888281 z m -0.87363,0 h -1.03477 c 0.0357,-0.213281 0.0908,-0.401953 0.15821,-0.554883 0.0615,-0.138281 0.13008,-0.238476 0.19629,-0.301758 0.0656,-0.06211 0.12011,-0.08086 0.16289,-0.08086 0.0428,0 0.0973,0.01875 0.16289,0.08086 0.0662,0.06328 0.13476,0.163477 0.19629,0.301758 0.068,0.152344 0.12246,0.341016 0.1582,0.554883 z m -1.22461,0 h -0.68379 c 0.17578,-0.43418 0.54844,-0.766992 1.00781,-0.888281 -0.14941,0.20039 -0.26543,0.513867 -0.32402,0.888281 z m -0.74531,0.1875 h 0.72129 c -0.0123,0.120703 -0.0188,0.246094 -0.0188,0.375 0,0.128906 0.006,0.254297 0.0188,0.375 h -0.72129 c -0.0311,-0.120117 -0.0475,-0.245508 -0.0475,-0.375 0,-0.129492 0.0164,-0.254883 0.0475,-0.375 z m 1.09336,1.491797 c -0.068,-0.152344 -0.12246,-0.341016 -0.15821,-0.554297 h 1.03477 c -0.0357,0.213281 -0.0908,0.401953 -0.1582,0.554297 -0.0615,0.138281 -0.13008,0.238477 -0.19629,0.301758 -0.0656,0.06269 -0.12012,0.08144 -0.16289,0.08144 -0.0428,0 -0.0973,-0.01875 -0.16289,-0.08086 -0.0662,-0.06328 -0.13477,-0.163477 -0.19629,-0.301758 z m -0.34805,-0.554297 c 0.0586,0.374414 0.17461,0.687891 0.32402,0.888281 -0.45937,-0.121289 -0.83203,-0.454101 -1.00781,-0.888281 z m 2.09824,0 c -0.17578,0.43418 -0.54843,0.766992 -1.00722,0.888281 0.14941,-0.20039 0.26484,-0.513867 0.32402,-0.888281 h 0.68379 z"
+       id="path1-2"
+       style="fill:#231f20;fill-opacity:1;stroke-width:0.00585937" /><path
+       d="m 177.45311,21.695733 h -2.5721 c -0.11785,0 -0.21361,0.0971 -0.21361,0.216295 v 2.567411 c 0,0.119196 0.0958,0.216294 0.21361,0.216294 h 2.5721 c 0.11786,0 0.21429,-0.0971 0.21429,-0.216294 v -2.567411 c 0,-0.119197 -0.0964,-0.216295 -0.21429,-0.216295 z m -1.87902,2.571429 h -0.44464 v -1.431697 h 0.44531 v 1.431697 z m -0.22232,-1.627233 c -0.14263,0 -0.25781,-0.115848 -0.25781,-0.257812 0,-0.141964 0.11518,-0.257813 0.25781,-0.257813 0.14197,0 0.25781,0.115849 0.25781,0.257813 0,0.142634 -0.11517,0.257812 -0.25781,0.257812 z m 1.88906,1.627233 h -0.44464 v -0.696429 c 0,-0.166071 -0.003,-0.379687 -0.23103,-0.379687 -0.23169,0 -0.26718,0.180803 -0.26718,0.367634 v 0.708482 h -0.44465 v -1.431697 h 0.42657 v 0.195536 h 0.006 c 0.0596,-0.1125 0.20491,-0.231027 0.42121,-0.231027 0.45,0 0.5337,0.296652 0.5337,0.682366 z"
+       id="path1-7"
+       style="fill:#231f20;fill-opacity:1;stroke-width:0.00669642" /></g></svg>
